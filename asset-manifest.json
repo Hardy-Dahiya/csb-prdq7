@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://hardy-dahiya.github.io/csb-prdq7/static/css/main.41284383.chunk.css",
+    "main.js": "https://hardy-dahiya.github.io/csb-prdq7/static/js/main.f7f7aee8.chunk.js",
+    "main.js.map": "https://hardy-dahiya.github.io/csb-prdq7/static/js/main.f7f7aee8.chunk.js.map",
+    "runtime-main.js": "https://hardy-dahiya.github.io/csb-prdq7/static/js/runtime-main.7eaa6f8a.js",
+    "runtime-main.js.map": "https://hardy-dahiya.github.io/csb-prdq7/static/js/runtime-main.7eaa6f8a.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://hardy-dahiya.github.io/csb-prdq7/static/css/2.cbedb215.chunk.css",
+    "static/js/2.57885330.chunk.js": "https://hardy-dahiya.github.io/csb-prdq7/static/js/2.57885330.chunk.js",
+    "static/js/2.57885330.chunk.js.map": "https://hardy-dahiya.github.io/csb-prdq7/static/js/2.57885330.chunk.js.map",
+    "index.html": "https://hardy-dahiya.github.io/csb-prdq7/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://hardy-dahiya.github.io/csb-prdq7/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.41284383.chunk.css.map": "https://hardy-dahiya.github.io/csb-prdq7/static/css/main.41284383.chunk.css.map",
+    "static/js/2.57885330.chunk.js.LICENSE.txt": "https://hardy-dahiya.github.io/csb-prdq7/static/js/2.57885330.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7eaa6f8a.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.57885330.chunk.js",
+    "static/css/main.41284383.chunk.css",
+    "static/js/main.f7f7aee8.chunk.js"
+  ]
+}
